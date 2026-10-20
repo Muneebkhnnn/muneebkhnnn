@@ -6,7 +6,7 @@ A **Full Stack Web Developer** 💻 from India.
 - 🚀 Building product-grade stuff: AI apps, scalable systems, SaaS
 - 🔭 Open to work at product startups
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muneeb-khan-1281b31bb/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=muneebkhn0786@gmail.com&su=Hello%20Muneeb)
-- 💼 Available for freelance web development
+- 💼 Available for Work
 
 ### Languages & Tools:
 
