@@ -4,7 +4,7 @@ A **Full Stack Web Developer** 💻 from India.
 
 - 🧑‍💻 Full Stack developer (React, Next.js, Node.js, TypeScript)
 - 🚀 Building product-grade stuff: AI apps, scalable systems, SaaS
-- 🔭 Open to work at product startups
+- 🔭 Open to work 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muneeb-khan-1281b31bb/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=muneebkhn0786@gmail.com&su=Hello%20Muneeb)
 - 💼 Available for Work
 
