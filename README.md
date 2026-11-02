@@ -16,6 +16,6 @@ A **Full Stack Web Developer** 💻 from India.
 ### GitHub Stats:
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muneebkhnnn&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhnnn&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=muneebkhnnn&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muneebkhnnn&layout=compact&theme=tokyonight" />
 </p>
